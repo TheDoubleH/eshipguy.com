@@ -20,5 +20,3 @@ In 2001, I found myself in Los Angeles, CA working with a company who supplies a
 Ever since E-Ship have been my favorite part of the <span style="text-decoration: line-through;">Navision</span> Dynamics NAV World.
 
 During my career I have worked on many different companies, covering the circle of life; Adult novelties, Sperm Bank, Cord Blood Storage, Baby products (Toys, seats etc), Pharmaceutical Products, Medical Devices and Death Care to name a few.
-
-I have always believed in crediting people for their work, so here I present to you a list of plugins used on this site: [pluginlist show=&#8221;active&#8221;]
