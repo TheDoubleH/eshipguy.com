@@ -1,7 +1,0 @@
-title = "E-Ship Guy"
-
-baseURL = "http://localhost:1313/"
-theme = 'massively'
-googleanalytics = "G-G9YFJN1TPH"
-disqusShortname = "thedoubleh"
-disableKinds = ["taxonomy", "taxonomyTerm", "section"]
