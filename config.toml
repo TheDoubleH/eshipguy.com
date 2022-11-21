@@ -1,6 +1,6 @@
 title = "E-Ship Guy"
 
-baseURL = "https://thedoubleh.github.io/eshipguy.com//"
+baseURL = "https://eshipguy.com/"
 theme = 'massively'
 googleanalytics = "G-G9YFJN1TPH"
 disqusShortname = "thedoubleh"
