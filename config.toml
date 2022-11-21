@@ -3,5 +3,5 @@ title = "E-Ship Guy"
 baseURL = "https://eshipguy.com/"
 theme = 'massively'
 googleanalytics = "G-G9YFJN1TPH"
-disqusShortname = "thedoubleh"
+disqusShortname = "eshipguy"
 disableKinds = ["taxonomy", "taxonomyTerm", "section"]
