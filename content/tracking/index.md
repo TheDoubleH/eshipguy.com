@@ -109,8 +109,7 @@ In eShip, the following parameters are used:
   
 ### Estes
 
-- `https://www.estes-express.com/myestes/shipment-tracking/?type=PRO&query=%1`
-- `http://www.estes-express.com/cgi-dta/edn419.mbr/output?search_type=F&random_number&hash_value&search_criteria=%1`
+- `https://www.estes-express.com/myestes/tracking/shipments?type=PRO&query=%1`
 
 ### Midwest Motor Express
 
