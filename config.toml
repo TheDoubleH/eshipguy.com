@@ -5,3 +5,6 @@ theme = 'massively'
 googleanalytics = "G-G9YFJN1TPH"
 disqusShortname = "eshipguy"
 disableKinds = ["taxonomy", "taxonomyTerm", "section"]
+
+[params.page.library.js]
+  usermetric = "https://tracking.helgesenconsulting.com/pixel/eNE6UJQO59ElOx4e"
